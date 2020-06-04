@@ -1,0 +1,5 @@
+Archivo de texto para proyecto de Git
+
+Curso de git y github avanzado en Platzi
+
+Estudiante Juan Camilo Velez Olaya
