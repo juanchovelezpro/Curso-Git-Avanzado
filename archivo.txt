@@ -4,3 +4,5 @@ Curso de git y github avanzado en Platzi
 
 Estudiante Juan Camilo Velez Olaya
 Ingenieria Telematica Universidad ICESI
+
+Octavo Semestre -> 2020-2
